@@ -33,6 +33,7 @@ body {
 }
 
 .card {
+  list-style-type: none;
   background: #191c29;
   width: var(--card-width);
   height: var(--card-height);
