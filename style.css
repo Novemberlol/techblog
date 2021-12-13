@@ -93,9 +93,9 @@ body {
 }
 
 a {
-  color: #212534;
+  color: white;
   text-decoration: none;
-  font-family: sans-serif;
+  font-family: 'Bakbak One', cursive;
   font-weight: bold;
   margin-top: 2rem;
 }
