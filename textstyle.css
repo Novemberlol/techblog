@@ -4,3 +4,9 @@ color: white;
 font-size: 60px;
 }
 
+ul{
+  list-style-type: none;
+  color: white;
+  font-family: 'Bakbak One', cursive;
+
+}
