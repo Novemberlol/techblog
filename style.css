@@ -33,6 +33,9 @@ body {
   text-align: center;
   display: flex;
   font-size: 1.5em;
+  list-style-type: none;
+  font-family: 'Bakbak One', cursive;
+  color: white;
 }
 
 .card:hover {
