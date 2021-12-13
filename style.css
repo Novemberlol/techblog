@@ -21,7 +21,6 @@ body {
   box-sizing: border-box;
 }
 
-
 .card {
   background: #191c29;
   width: var(--card-width);
@@ -34,9 +33,6 @@ body {
   text-align: center;
   display: flex;
   font-size: 1.5em;
-  color: rgb(88 199 250 / 0%);
-  cursor: pointer;
-  font-family: cursive;
 }
 
 .card:hover {
